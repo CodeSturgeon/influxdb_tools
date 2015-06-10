@@ -6,5 +6,6 @@ setup(
     package_dir={'': 'source'},
     scripts=[
         'scripts/influxdb_dumper',
+        'scripts/influxdb_loader',
     ]
 )

@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import influxdb_tools
+
+if __name__ == "__main__":
+    influxdb_tools.loader()
